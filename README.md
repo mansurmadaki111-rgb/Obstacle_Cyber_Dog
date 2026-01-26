@@ -17,7 +17,7 @@ An autonomous robot car built with Arduino that continuously moves forward, dete
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 1. The car moves forward continuously.
 2. When an obstacle is detected:
    - Motors stop immediately.
@@ -43,7 +43,7 @@ An autonomous robot car built with Arduino that continuously moves forward, dete
 
 ---
 
-## 🔌 Pin Connections
+##  Pin Connections
 
 ### Motor Driver (L298N → Arduino Nano)
 | L298N Pin | Arduino Pin |
@@ -61,7 +61,7 @@ An autonomous robot car built with Arduino that continuously moves forward, dete
 
 ---
 
-## 📄 Code Overview
+## Code Overview
 - `moveForward()` → Drives the car forward
 - `moveBackward()` → Reverses the car
 - `turnLeft()` / `turnRight()` → Direction control
@@ -70,7 +70,7 @@ An autonomous robot car built with Arduino that continuously moves forward, dete
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Connect all components as shown above.
 2. Upload the code using Arduino IDE.
 3. Power the Arduino and motors.
@@ -78,7 +78,7 @@ An autonomous robot car built with Arduino that continuously moves forward, dete
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Mansur Isah Madaki**  
 IoT & Embedded Systems Developer  
 Powered by **SmartSense**
