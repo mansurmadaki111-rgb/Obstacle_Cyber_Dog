@@ -37,7 +37,7 @@ An autonomous robot car built with Arduino that continuously moves forward, dete
 - L298N Motor Driver
 - 2 DC Motors + Robot chassis
 - IR Proximity Sensor (3-pin)
-- Servo Motor (SG90 or similar)
+- Servo Motor 
 - Battery / Power supply
 - Jumper wires
 
