@@ -80,10 +80,8 @@ An autonomous robot car built with Arduino that continuously moves forward, dete
 
 ## Author
 **Mansur Isah Madaki**  
-IoT & Embedded Systems Developer  
-Powered by **SmartSense**
+  
+
 
 ---
 
-## ⭐ Support
-If you like this project, give it a ⭐ on GitHub!
